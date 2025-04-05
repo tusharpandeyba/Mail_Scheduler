@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+python-dotenv
+email-validator
+passlib
+python-jose
+apscheduler
+bcrypt
